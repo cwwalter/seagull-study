@@ -1,13 +1,12 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../.config/dask"
-		}
-	],
-	"settings": {
-		"remote.SSH.useFlock": false
-	}
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../.config/dask"
+        }
+    ],
+    "settings": {
+    }
 }
